@@ -40,7 +40,7 @@ To run this application locally:
 - Click the "On" button to turn the light on (yellow).
 - Click the "Off" button to turn the light off (white).
 
-##Demo
+## Demo
 
 you can find the demo link [here](https://kirangajjana.github.io/bulb-toggle-functionality/)
 

@@ -33,3 +33,9 @@
     left:30%;
     top:90%;
 }
+
+#marquee{
+    position:absolute;
+    bottom:0;
+    font-weight: bolder;
+}

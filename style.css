@@ -1,0 +1,35 @@
+#lightoutdoor{
+    height:250px;
+    width:200px;
+    background-color: aqua;
+    border-style: groove;
+    border-color: black;
+    position: absolute;
+    left:40%;
+    top:20%;
+}
+#lightindoor{
+    height:100px;
+    width:100px;
+    background-color: azure;
+    position:absolute;
+    left:30%;
+    top:10%;
+    border-radius: 50px;
+    border-color: black;
+    display:flex;
+}
+#button{
+    height:30px;
+    width:100px;
+    position:absolute;
+    left:30%;
+    top:70%;
+}
+#button1{
+    height:20px;
+    width:100px;
+    position:absolute;
+    left:30%;
+    top:90%;
+}
